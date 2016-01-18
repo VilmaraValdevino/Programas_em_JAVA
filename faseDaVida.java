@@ -39,7 +39,7 @@ public class faseDaVida
 		{
 			System.out.println("A idade informada é de um idoso!");
 		}
-		// Senão acso o usuário digite um número fora das possibilidades , abaixo de 0 , ou seja a pessoa ainda não nasceu , imprimir na tela opção inválida !!...
+		// Senão caso o usuário digite um número fora das possibilidades , abaixo de 0 , ou seja a pessoa ainda não nasceu , imprimir na tela opção inválida !!...
 		else
 		{
 			System.out.println("Opção inválida!!!");
