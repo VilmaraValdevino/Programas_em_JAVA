@@ -2,7 +2,7 @@
 
 package maioridade;
 
-import javax.swing.JOptionPane;
+import java.swing.JOptionPane;
 
 public class maiorIdade 
 {
